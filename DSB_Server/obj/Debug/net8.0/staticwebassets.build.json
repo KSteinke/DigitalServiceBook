@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "udTlw6CGoBx4omWGz91DLB1HdPiQ4zo1dyy3+PZZQ9E=",
+  "Hash": "dOuq03Mup741lWM3koO7K/iowfVQNfDAyli35csf53Q=",
   "Source": "DSB_Server",
   "BasePath": "_content/DSB_Server",
   "Mode": "Default",
@@ -7862,25 +7862,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\Projekty\\DigitalServiceBook\\DSB_Server\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "SourceId": "DSB_Server",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projekty\\DigitalServiceBook\\DSB_Server\\wwwroot\\",
-      "BasePath": "_content/DSB_Server",
-      "RelativePath": "bootstrap/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
       "Identity": "D:\\Projekty\\DigitalServiceBook\\DSB_Server\\wwwroot\\favicon.png",

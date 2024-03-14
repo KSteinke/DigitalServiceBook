@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Projekty\\DigitalServiceBook\\DSB_Server\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
       "Id": "D:\\Projekty\\DigitalServiceBook\\DSB_Server\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
