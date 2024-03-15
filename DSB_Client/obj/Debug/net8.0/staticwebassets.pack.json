@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projekty\\DigitalServiceBook\\DSB_Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Projekty\\DigitalServiceBook\\DSB_Client\\obj\\Debug\\net8.0\\compressed\\jnl0mw8q8j.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DSB_Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DSB_Client.props",
+      "PackagePath": "build\\DSB_Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DSB_Client.props",
+      "PackagePath": "buildMultiTargeting\\DSB_Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DSB_Client.props",
+      "PackagePath": "buildTransitive\\DSB_Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
