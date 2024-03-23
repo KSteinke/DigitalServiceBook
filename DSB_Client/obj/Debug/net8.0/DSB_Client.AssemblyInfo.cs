@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSB_Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e533831ba6664a838329d9ddc40bee5f90b3cdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b95feee38365d97d1bd016a206e2b9533d42d59d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSB_Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSB_Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
